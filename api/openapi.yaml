@@ -14,7 +14,7 @@ externalDocs:
   url: http://swagger.io
 servers:
 - description: laughing-invention
-  url: https://wabli-laughing-invention.cyclopt.services:3000/v1
+  url: https://wabli-laughing-invention.cyclopt.services:3010/v1
 security:
 - {}
 tags:
