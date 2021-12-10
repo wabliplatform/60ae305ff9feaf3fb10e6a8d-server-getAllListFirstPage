@@ -37,7 +37,7 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/user'
-          description: seccessful operation
+          description: successful operation
       summary: Creates the data
       tags:
       - user
@@ -78,7 +78,7 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/user'
-          description: seccessful operation
+          description: successful operation
       summary: Get the element
       tags:
       - user
@@ -106,7 +106,7 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/user'
-          description: seccessful operation
+          description: successful operation
       summary: Updates the element
       tags:
       - user
