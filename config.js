@@ -2,8 +2,8 @@ const path = require('path');
 
 const config = {
   ROOT_DIR: __dirname,
-  URL_PORT: 3010,
-  URL_PATH: 'https://wabli-laughing-invention.cyclopt.services',
+  URL_PORT: 3000,
+  URL_PATH: 'http://83.212.100.226',
   DB_URL: 'mongodb://127.0.0.1:27017/generatedServer',
   DEBUG_MODE: true,
   BASE_VERSION: '/v1',
